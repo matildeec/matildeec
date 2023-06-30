@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👩🏼‍💻 Currently working on a project
+- 🖥️
 -->
+
+📚 Currently studying Digital Humanities at Univeristy of Pisa
+🔭 Interested in Software Developing, Data Science and AI
