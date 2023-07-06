@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 -->
 
 - 📚 Currently studying Digital Humanities at Univeristy of Pisa
-- 🔭 Interested in Software Developing, Data Science and AI
+- 🔭 Interested in Software Development, Web design, Data Science and AI
 - 🌱 Currently working on a new project
