@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 🖥️
 -->
 
-- 📚 Currently studying Digital Humanities at University of Pisa
+- 📚 Currently studying Data Science at Sant'Anna School of Advanced Studies / University of Pisa
+- 🎓 Graduate in Digital Humanities at University of Pisa
 - 🔭 Interested in Web Design, Software Development, Data Science and AI
 - 🌱 Currently working on a new project
